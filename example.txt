@@ -1,0 +1,48 @@
+GitHub & Git
+--------
+
+git tool vachittanu nammude system github ne access cheyyunnath.
+
+git -- its a tool to access github
+
+git is tool, github is an account
+
+
+
+operation
+-----------
+
+repository- folder(git hub il folder ne repository ennu vilikkum)
+
+ 2 types repositories
+
+ 1. remote repository (ellavarkkum access cheyyan pattum)
+ 2. local repository  (oralkk mathrame access cheyyan pattulloo)
+
+push( nammude systethil ninnu project github il move cheyyunna peranu push
+     local repository il ninnu remote repository il move cheyyunna name aanu push)
+
+push    --- upload new project and updations.
+
+
+
+clone( github il ulla project ne exact nammude systethil copy cheyyunnathine 
+     clone ennu parayunnu
+     
+     remote repository il ninnum local repository il copy 
+     cheyyunathine clone ennu parayunnu)
+
+clone --- download exact copy of project from github.
+
+
+already upload cheytha project update cheyth upload cheyyanum push thanne aanu use
+cheyyunath.                                                   ------
+
+pull--- to download updations from github.
+
+
+already clone cheytha project nte updations copy 
+cheyyan vendi PULL use cheyyunnu.
+              -----
+
+
